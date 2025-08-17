@@ -1,5 +1,11 @@
 site_name: CIT Student's guide to IoT
 site_url: https://sitename.example
+site_description: A comprehensive guide for CIT students on IoT topics.
+site_author: Nurlan Aliyev
+
+repo_url: https://github.com/nurlan-aliyev/cit-students-guide-to-iot
+repo_name: nurlan-aliyev/cit-students-guide-to-iot
+
 theme:
   name: material
   font:
