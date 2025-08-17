@@ -8,13 +8,19 @@ repo_name: nurlan-aliyev/cit-students-guide-to-iot
 
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/microchip
   font:
-    text: Merriweather Sans
-    code: Red Hat Mono
+    text: Poppins
+    code: Roboto Mono
   # logo: assets/logo.png
   # favicon: assets/favicon.ico
   features:
     - navigation.footer
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    # - toc.integrate
   palette:
     # Dark Mode
     - scheme: slate
@@ -53,11 +59,20 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
-# extra:
-#   social:
-#     - icon: simple/youtube
-#       link: https://youtube.com/@james-willett
-#     - icon: simple/linkedin
-#       link: https://linkedin.com/in/willettjames
+nav:
+  - Home: 'index.md'
+  - 1. Introduction to IoT and Arduino: 'introduction.md'
+  - 2. Getting Started: 'getting-started.md'
+  - 3. Programming Basics : 'programming-basics.md'
+  - 4. Input/Output Operations: 'io-operations.md'
+  - 5. Essential Functions: 'necessary-functions.md'
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nurlan-aliyev/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nurlan-aliyev-18b023220/
 
 copyright: Copyright &copy; 2025 Nurlan Aliyev
