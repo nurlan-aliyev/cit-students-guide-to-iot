@@ -12,13 +12,15 @@ Hello there! Seems like you are in need of finding your way through the magical 
 
 ## Table of Contents
 
-| Section                | Description                                      | Link                        |
-|------------------------|--------------------------------------------------|-----------------------------|
-| Introduction           | What is Arduino, microcontrollers, and their history | [Introduction](introduction.md) |
-| Getting Started        | Setting up Arduino IDE and connecting hardware   | [Getting Started](getting-started.md) |
-| Programming Basics     | Structure, setup/loop, variables, operators, control flow | [Programming Basics](programming-basics.md) |
-| Input/Output Operations| Digital and analog I/O, pin configuration        | [I/O Operations](io-operations.md) |
-| Essential Functions    | Essential built-in functions for Arduino         | [Essential Functions](necessary-functions.md) |
+| Section                 | Description                                                                 | Link                                          |
+| ----------------------- | --------------------------------------------------------------------------- | --------------------------------------------- |
+| Instruction             | What is Arduino, microcontrollers, and their history                        | [Introduction](introduction.md)               |
+| Getting Started         | Setting up Arduino IDE and connecting hardware                              | [Getting Started](getting-started.md)         |
+| Programming Basics      | Structure, setup/loop, variables, operators, control flow                   | [Programming Basics](programming-basics.md)   |
+| Input/Output Operations | Digital and analog I/O, pin configuration                                   | [I/O Operations](io-operations.md)            |
+| Essential Functions     | Essential built-in functions for Arduino                                    | [Essential Functions](necessary-functions.md) |
+| Useful Links            | Useful links with valuable information regarding Arduino and IoT in general | [Useful Links](useful-links.md)               |
+
 
 ---
 
@@ -29,6 +31,7 @@ Hello there! Seems like you are in need of finding your way through the magical 
 - Dive into [Programming Basics](programming-basics.md) to begin coding.
 - Explore [I/O Operations](io-operations.md) for hardware interaction.
 - Reference [Essential Functions](necessary-functions.md) for useful code snippets.
+- Check [Useful Links](useful-links.md) to dive deeper in knowledge.
 
 
 

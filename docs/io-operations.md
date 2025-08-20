@@ -1,4 +1,4 @@
-# Input/Output Operation
+# Input/Output Operations
 ## Digital I/O
 ### pinMode(pin,  mode), 
 Used in `void setup()` to configure a specified pin to behave either as an INPUT or an OUTPUT.
