@@ -1,4 +1,22 @@
 # Getting Started
+## Anatomy of an Arduino Board
+Although Arduino boards come in various models, most share several essential components. Here’s a breakdown of the main parts you’ll typically find:
+
+![anatomy of arduino board](assets/board-anatomy.png)
+/// caption
+Arduino Board Anatomy - Public Domain([Link to image](https://docs.arduino.cc/static/d0c28c5bd0894792476c6052dea5fa63/29114/board-anatomy.png))
+///
+
+1. **Microcontroller** – Acts as the central processor, running the code you upload. It’s like a compact computer dedicated to specific tasks.
+2. **USB Port** – Allows you to connect the Arduino to your computer.
+3. **USB to Serial Converter** – Facilitates communication between your computer and the microcontroller, enabling you to upload programs.
+4. **Digital Pins** – Used for digital signals (either HIGH/LOW or 1/0), suitable for controlling devices like LEDs or reading switches.
+5. **Analog Pins** – Capable of reading analog inputs with a 10-bit resolution (values from 0 to 1023).
+6. **5V / 3.3V Pins** – Provide power to external modules or sensors.
+7. **GND (Ground)** – Serves as the reference point for the circuit, completing the electrical path at zero volts.
+8. **VIN (Voltage In)** – Used to supply power to the board from an external source.
+
+While different Arduino models may include additional features, these components are commonly present on most boards.
 ## Arduino IDE
 
 The Arduino IDE (*Integrated Development Environment*) is the official software for writing and uploading code to Arduino boards.
