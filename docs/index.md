@@ -12,6 +12,7 @@ Hello there! Seems like you are in need of finding your way through the magical 
 
 ## Table of Contents
 
+
 | Section                 | Description                                                                 | Link                                          |
 | ----------------------- | --------------------------------------------------------------------------- | --------------------------------------------- |
 | Instruction             | What is Arduino, microcontrollers, and their history                        | [Introduction](introduction.md)               |
@@ -20,6 +21,7 @@ Hello there! Seems like you are in need of finding your way through the magical 
 | Input/Output Operations | Digital and analog I/O, pin configuration                                   | [I/O Operations](io-operations.md)            |
 | Essential Functions     | Essential built-in functions for Arduino                                    | [Essential Functions](necessary-functions.md) |
 | Useful Links            | Useful links with valuable information regarding Arduino and IoT in general | [Useful Links](useful-links.md)               |
+| References              | Literature used to make this project                                        | [References](references.md)                   |
 
 
 ---
@@ -32,6 +34,7 @@ Hello there! Seems like you are in need of finding your way through the magical 
 - Explore [I/O Operations](io-operations.md) for hardware interaction.
 - Reference [Essential Functions](necessary-functions.md) for useful code snippets.
 - Check [Useful Links](useful-links.md) to dive deeper in knowledge.
+- Check [References](references.md) to check the literature used for this project.
 
 
 
